@@ -1,0 +1,23 @@
+.Question {
+  margin-bottom: 12px;
+  &__title {
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-bottom: 12px;
+  }
+  &__image {
+    border-radius: 12px;
+    max-width: 100%;
+  }
+  &__next {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  &__answers {
+    box-shadow: 0 0 0 1px #0002 inset;
+    border-radius: 12px;
+    margin-top: 12px;
+    overflow: hidden;
+  }
+}
