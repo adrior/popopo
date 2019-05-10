@@ -1,13 +1,13 @@
 {
   "config": {
-    "shuffleAnswers": false
+    "shuffleAnswers": false,
+    "strategy": "mostRelevant"
   },
   "intro": {
     "title": "Какой вы дизайнер",
     "descr": "Хуёвый, какой ещё-то. Неужели, вы на что-то рассчитываете?",
     "action": "Трам-пам-пам"
   },
-  "resutlsStrategy": "chooseFromList",
   "results": {
     "product": {
       "title": "Вы продуктовый дизайнер"
